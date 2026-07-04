@@ -1,16 +1,24 @@
-## Hi there 👋
+# João Miyazaki
 
-<!--
-**joao-miyazaki/joao-miyazaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia Elétrica, membro do PET Engenharia Elétrica.
+Entusiasta de eletrônica embarcada e cultura japonesa.
+Buscando uma pós-graduação no exterior a longo prazo.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e ferramentas
+- Git • KiCad • AutoCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Atualmente
+- Estudando C
+- Estudando japonês 🇯🇵
+
+## ⚡ Interesses
+**Técnico:** Eletrônica de Potência • Eletrônica Analógica • Smart Grids  
+**Pessoal:** Kamen Rider • Visual Novels • Tokusatsu
+
+## 📁 Projetos em desenvolvimento
+- [dotfiles](https://github.com/joao-miyazaki/dotfiles)
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-miyazaki&show_icons=true&theme=dark&hide=stars&count_private=true)
+
+---
+*Love and Peace! — El Psy Kongroo*
