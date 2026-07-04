@@ -18,7 +18,5 @@ Buscando uma pós-graduação no exterior a longo prazo.
 ## 📁 Projetos em desenvolvimento
 - [dotfiles](https://github.com/joao-miyazaki/dotfiles)
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-miyazaki&show_icons=true&theme=dark&hide=stars&count_private=true)
-
 ---
 *Love and Peace! — El Psy Kongroo*
