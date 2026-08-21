@@ -12,7 +12,7 @@ Eletrônica de Potência • Circuitos Analógicos • Smart Grids
 
 ## 📁 Projetos Destacados
 - [dotfiles](https://github.com/joao-miyazaki/dotfiles) — Configuração Arch Linux + Hyprland
-- [Estudo Programação](https://github,com/joao-miyazaki/estudo-programacao) - (C)
+- [Estudo Programação](https://github.com/joao-miyazaki/estudos-programacao) - (C)
 
 ## 🌍 Idiomas
 🇧🇷 Português (Nativo) | 🇺🇸 English (Avançado) 
